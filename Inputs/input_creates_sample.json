@@ -1,0 +1,26 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 1001,
+	"service_label": "PARTICIPATION",
+	"api_type": "creates",
+	"Participation": {
+		"Participation": 1,
+		"ParticipationDate": "2024-04-01",
+		"ParticipationTime": "14:13:52",
+		"Participator": 10001,
+		"ParticipationObjectType": "EVT",
+		"ParticipationObject": 1,
+		"CreationDate": "2024-04-01",
+		"CreationTime": "14:13:52",
+		"IsCancelled": null
+	},
+	"api_schema": "DPFMParticipationCreates",
+	"accepter": [
+		"Header"
+	]
+}
