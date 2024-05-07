@@ -76,6 +76,7 @@ type Header struct {
 	Participator				int		`json:"Participator"`
 	ParticipationObjectType		string	`json:"ParticipationObjectType"`
 	ParticipationObject			int		`json:"ParticipationObject"`
+	Attendance					*int	`json:"Attendance"`
 	CreationDate				string	`json:"CreationDate"`
 	CreationTime				string	`json:"CreationTime"`
 	IsCancelled					*bool	`json:"IsCancelled"`

@@ -42,6 +42,7 @@ func ConvertToHeader(
 		Participator:				input.Header.Participator,
 		ParticipationObjectType:	input.Header.ParticipationObjectType,
 		ParticipationObject:		input.Header.ParticipationObject,
+		Attendance:					input.Header.Attendance,
 		CreationDate:				input.Header.CreationDate,
 		CreationTime:				input.Header.CreationTime,
 		IsCancelled:				input.Header.IsCancelled,

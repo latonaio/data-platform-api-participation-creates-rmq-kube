@@ -15,6 +15,7 @@
 		"Participator": 10001,
 		"ParticipationObjectType": "EVT",
 		"ParticipationObject": 1,
+		"Attendance": null,
 		"CreationDate": "2024-04-01",
 		"CreationTime": "14:13:52",
 		"IsCancelled": null
